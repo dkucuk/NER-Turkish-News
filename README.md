@@ -1,2 +1,5 @@
 # NER-Turkish-News
-Includes resources for named entity recognition in Turkish news
+
+TR_VIT_Veri_Kumesi.zip contains named entity annotations for a set of news articles in Turkish (obtained from METU Turkish Corpus). The dataset is described in the following publication. Please cite it if you use the dataset in your research.
+
+1)	Küçük, D., Küçük, D., Arıcı, N. 2016. Türkçe Varlık İsmi Tanıma için bir Veri Kümesi. IEEE Sinyal İşleme, İletişim ve Uygulamaları Kurultayı. Zonguldak, Türkiye.
